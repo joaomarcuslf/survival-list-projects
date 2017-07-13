@@ -5,6 +5,7 @@ Here I will create some projects using some low cost components. The main object
 ## Inspiration
 
 - [This book](https://www.nostarch.com/zombies)
+- [This other book](https://www.nostarch.com/electronicsforkids)
 - Watch Dogs tools
 
 ## Contributing
